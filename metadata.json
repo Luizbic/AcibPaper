@@ -1,0 +1,7 @@
+{
+  "name": "AcibPaper",
+  "description": "A stunning Glassmorphism-based utility app featuring a transparent camera mode and AI-powered wallpaper generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
